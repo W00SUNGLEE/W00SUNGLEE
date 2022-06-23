@@ -3,3 +3,5 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hievent1)](https://solved.ac/hievent1/)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/W00SUNG)
